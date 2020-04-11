@@ -7,3 +7,5 @@ Slope of a Number is Finding Total Number of Maxima's and Minima's of the Given 
 
 Maxima is the number that is Higher than number to the left and right to it.
 Minima is the number that is lower than number to the left and right to it.
+
+p.s. Its also asked in Barclays Coding Round
